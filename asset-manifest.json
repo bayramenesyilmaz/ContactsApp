@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ContactsApp-Patika/public/index.html/static/css/main.c941ba55.css",
-    "main.js": "/ContactsApp-Patika/public/index.html/static/js/main.922c7ebd.js",
-    "index.html": "/ContactsApp-Patika/public/index.html/index.html",
-    "main.c941ba55.css.map": "/ContactsApp-Patika/public/index.html/static/css/main.c941ba55.css.map",
-    "main.922c7ebd.js.map": "/ContactsApp-Patika/public/index.html/static/js/main.922c7ebd.js.map"
+    "main.css": "/ContactsApp-Patika/static/css/main.c941ba55.css",
+    "main.js": "/ContactsApp-Patika/static/js/main.922c7ebd.js",
+    "index.html": "/ContactsApp-Patika/index.html",
+    "main.c941ba55.css.map": "/ContactsApp-Patika/static/css/main.c941ba55.css.map",
+    "main.922c7ebd.js.map": "/ContactsApp-Patika/static/js/main.922c7ebd.js.map"
   },
   "entrypoints": [
     "static/css/main.c941ba55.css",
